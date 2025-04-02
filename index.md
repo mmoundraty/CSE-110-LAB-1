@@ -1,5 +1,7 @@
 # Mitchell Moundraty's Webpage
 
+![This is my favorite picture](https://sdzwildlifeexplorers.org/sites/default/files/2017-07/pandas-closeup.jpg)
+
 *I like to move it move it*
 
 > Dat money
