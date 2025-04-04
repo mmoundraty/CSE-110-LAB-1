@@ -2,10 +2,11 @@
 
 ![This is my favorite picture](https://sdzwildlifeexplorers.org/sites/default/files/2017-07/pandas-closeup.jpg)
 
-*I like to move it move it*
+*Hello Welcome to my Webpage*
 
-> Dat money
+> I'm Mitchell Moundraty, a 2nd-year computer science major at Sixth College. I like to play instruments and video games in my free time.
 
+Here's a piece of code 
 ```
 #include <stdio.h>
 
@@ -15,11 +16,11 @@ int main(void) {
 }
 ```
 
-Check this [video](https://www.youtube.com/watch?v=mKij8pU075w) out.
+Here's a random [video](https://www.youtube.com/watch?v=mKij8pU075w) that I saw on youtube.
 
-Okay now lets look at this [page again](#hello-world)
+This goes to the bottom of the [page](#hello-world)
 
-As a good programmer you must always read the [README.md](README.md) file
+Here is my [README.md](README.md) file
 
 Here are three things that I love
 - Tacos
@@ -32,9 +33,9 @@ Here are three things that I hate
 3. Apples
 
 Here are 4 classes that I need to lock in
-- [ ] CSE 110
-- [ ] CSE 105
-- [ ] ECON 120A
+- [x] CSE 110
+- [x] CSE 105
+- [x] ECON 120A
 - [ ] CAT 3
 
 # Hello World
