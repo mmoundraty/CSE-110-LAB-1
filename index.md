@@ -2,9 +2,9 @@
 
 ![This is my favorite picture](https://sdzwildlifeexplorers.org/sites/default/files/2017-07/pandas-closeup.jpg)
 
-*Hello Welcome to my Webpage*
+*Hello Welcome to my Webpage. I'm Mitchell Moundraty, a 2nd-year computer science major at Sixth College. I like to play instruments and video games in my free time.*
 
-> I'm Mitchell Moundraty, a 2nd-year computer science major at Sixth College. I like to play instruments and video games in my free time.
+> "Spinjitzu is inside of each and everyone of you but it will only be unlocked when the key is ready to be found."-Sensei Wu
 
 Here's a piece of code 
 ```
